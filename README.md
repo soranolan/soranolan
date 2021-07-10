@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soranolan aka Sam Lai
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... CI, CD, Spring Boot, Spring Webflux, Vue, Spring cloud
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... CI, CD, Spring Boot, Spring Webflux, Vue, Spring Cloud
+- 💞️ I’m looking to collaborate on ... job! :D
 - 📫 How to reach me ... samuel820523@gmail.com
 
 <!---
