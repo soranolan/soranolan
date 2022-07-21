@@ -10,14 +10,23 @@
 
    * Finished
       * Data Structure - 1
+         * https://www.youtube.com/watch?v=8IOv2fnc01E
+      * SOLID
+         * https://www.youtube.com/watch?v=zHiWqnTWsn4
+         * https://www.youtube.com/watch?v=t86v3N4OshQ
+         * https://www.youtube.com/watch?v=oar-T2KovwE
+         * https://www.youtube.com/watch?v=A6ZqNQdJPjc
     
    * Unfinished
       * Design Pattern
+         * https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
       * Data Structure - 2
       * Algorithm
       * Operating System
       * Computer Organization
       * Computer Architecture
+      * Java Virtual Machine
+      * Java Multi Thread
       * Calculus
       * Linear Algebra
       * Discrete Mathematics
