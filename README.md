@@ -22,14 +22,18 @@
          * https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
       * Data Structure - 2
       * Algorithm
-      * Operating System
-      * Computer Organization
+      * Introduction of Computer Science
+         * https://www.youtube.com/playlist?list=PLil-R4o6jmGiDc1CC8PyBbasl8kR9r8Wr
       * Computer Architecture
+      * Computer Organization
+      * Operating System
       * Java Virtual Machine
       * Java Multi Thread
+      ---
       * Calculus
       * Linear Algebra
       * Discrete Mathematics
+      ---
       * Google Tips
       * Backend Roadmap
 
