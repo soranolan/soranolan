@@ -10,7 +10,7 @@
 
    * Finished
       * Data Structure - 1
-         * https://www.youtube.com/watch?v=8IOv2fnc01E
+         * https://www.youtube.com/playlist?list=PLXVfgk9fNX2Kda9rttSvGROCtRQ3Sb8bA
       * SOLID
          * https://www.youtube.com/watch?v=zHiWqnTWsn4
          * https://www.youtube.com/watch?v=t86v3N4OshQ
