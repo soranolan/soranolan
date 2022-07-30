@@ -33,6 +33,8 @@
       * Java Virtual Machine
       * Java Multi Thread
       * Database Systems
+      * Coding Interview University
+         * https://github.com/jwasham/coding-interview-university/blob/main/translations/README-tw.md
       ---
       * Calculus
       * Linear Algebra
