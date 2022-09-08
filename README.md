@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam Lai
 
-- 🌱 I’m currently learning ... Data Structure, Design Pattern
+- 🌱 I’m currently learning ... Data Structure
 
 - 📫 How to reach me ... [:e-mail:](mailto:samuel820523@gmail.com)
 
@@ -16,10 +16,11 @@
          * https://www.youtube.com/watch?v=t86v3N4OshQ
          * https://www.youtube.com/watch?v=oar-T2KovwE
          * https://www.youtube.com/watch?v=A6ZqNQdJPjc
-    
-   * Unfinished
       * Design Pattern
          * https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
+         * https://www.youtube.com/playlist?list=PLF206E906175C7E07
+    
+   * Unfinished
       * Data Structure - 2
       * Algorithm
          * CLRS
